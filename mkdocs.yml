@@ -1,5 +1,8 @@
+site_name: Personal Emilio  s
 nav:
   - Bienvenido a mi Web: index.md
   - Malla Curricular: malla.md
   - Commands: commands.md
   - Project layout: layout.md
+
+theme: readthedocs 
